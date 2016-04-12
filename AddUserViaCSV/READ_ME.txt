@@ -12,7 +12,7 @@ Steps:
 1. import project
 2. change java runtime and server runtime
 2. update project (download maven dependencies)
-3. change upload directory
+3. change upload directory in AddUserServiceImpl.java and AddUserDaoImpl.java
 4. change database details in AddUserDaoImpl.java
 5. Encoding type of csv file has to be changed to Utf-8  before uploading
 	to do that:
